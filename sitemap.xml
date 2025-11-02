@@ -1,59 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://ammar.com/Home-Page.html</loc>
-        <lastmod>2025-10-29T15:34:13+03:00</lastmod>
+        <loc>http://cqr.cc/Home-Page.html</loc>
+        <lastmod>2025-11-02T14:59:25+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/index.html</loc>
-        <lastmod>2025-10-29T15:34:13+03:00</lastmod>
+        <loc>http://cqr.cc/index.html</loc>
+        <lastmod>2025-11-02T14:59:25+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/Projects.html</loc>
-        <lastmod>2025-10-29T13:47:38+03:00</lastmod>
+        <loc>http://cqr.cc/About-Us.html</loc>
+        <lastmod>2025-11-02T13:42:41+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/About-Us.html</loc>
-        <lastmod>2025-10-31T16:18:25+03:00</lastmod>
+        <loc>http://cqr.cc/Portfolio.html</loc>
+        <lastmod>2025-11-02T15:17:59+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/Portfolio.html</loc>
-        <lastmod>2025-10-31T16:19:20+03:00</lastmod>
-    </url>
-    <url>
-        <loc>https://ammar.com/blog/post.html</loc>
+        <loc>http://cqr.cc/blog/post.html</loc>
         <lastmod>2025-10-27T11:25:19+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/blog/post-1.html</loc>
+        <loc>http://cqr.cc/blog/post-1.html</loc>
         <lastmod>2025-10-27T11:25:19+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/blog/post-2.html</loc>
+        <loc>http://cqr.cc/blog/post-2.html</loc>
         <lastmod>2025-10-27T11:25:19+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/blog/post-3.html</loc>
+        <loc>http://cqr.cc/blog/post-3.html</loc>
         <lastmod>2025-10-27T11:25:19+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/blog/post-4.html</loc>
+        <loc>http://cqr.cc/blog/post-4.html</loc>
         <lastmod>2025-10-27T11:25:19+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/blog/post-5.html</loc>
+        <loc>http://cqr.cc/blog/post-5.html</loc>
         <lastmod>2025-10-27T11:25:19+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/blog/blog.html</loc>
-        <lastmod>2025-10-31T16:20:15+03:00</lastmod>
+        <loc>http://cqr.cc/blog/blog.html</loc>
+        <lastmod>2025-11-02T15:18:35+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/products/products.html</loc>
-        <lastmod>2025-10-31T16:20:15+03:00</lastmod>
+        <loc>http://cqr.cc/products/products.html</loc>
+        <lastmod>2025-11-02T15:18:35+03:00</lastmod>
     </url>
     <url>
-        <loc>https://ammar.com/thank-you-page.html</loc>
+        <loc>http://cqr.cc/thank-you-page.html</loc>
         <lastmod>2025-10-27T11:25:09+03:00</lastmod>
     </url>
 </urlset>
